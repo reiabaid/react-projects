@@ -1,7 +1,7 @@
-# React in 30 days
+# React Projects
 
 
-This repository contains a 30-day self-driven challenge to build 30 React mini-projects. The goal is to learn React deeply through hands-on practice; one project per day.
+This repository contains a self-driven challenge to build React mini-projects. The goal is to learn React deeply through hands-on practice.
 
 ##  Objective
 
@@ -30,23 +30,6 @@ This repository contains a 30-day self-driven challenge to build 30 React mini-p
 | 11  | TV Show Search           | Dynamic search from TVMaze API             | [x]     |
 | 12  | Multi-Page App           | React Router for navigation                | [x]     |
 | 13  | Login/Signup Form        | Controlled inputs + form validation        | [x]     |
-| 14  | Multi-Step Form          | Stepper logic with component splitting     | [x]     |
-| 15  | Reusable Components      | Generic Card, Modal, Button                | [ ]     |
-| 16  | Product Search Filter    | Filter list by category/text input         | [ ]     |
-| 17  | Theme Switcher (Context) | Global theme using Context API             | [ ]     |
-| 18  | Countdown Timer          | setInterval + time formatting              | [ ]     |
-| 19  | Calculator               | Button grid, expression logic              | [ ]     |
-| 20  | Stopwatch/Timer          | Start, stop, reset buttons                 | [ ]     |
-| 21  | BMI Calculator           | Form with logic + BMI category             | [ ]     |
-| 22  | Emoji Search             | Input + filter emoji list                  | [ ]     |
-| 23  | Image Gallery            | Grid layout, lightbox modal                | [ ]     |
-| 24  | Chat UI                  | Layout mimic of a messaging app            | [ ]     |
-| 25  | Blog Viewer              | Markdown blog viewer with navigation       | [ ]     |
-| 26  | Expense Chart            | Bar chart of expenses using Chart.js       | [ ]     |
-| 27  | Tic-Tac-Toe              | Classic game with state logic              | [ ]     |
-| 28  | Movie Search App         | API fetch with rating filters              | [ ]     |
-| 29  | IP Address Tracker       | Input + geolocation API                    | [ ]     |
-| 30  | Final Portfolio          | Deployed site with project gallery         | [ ]     |
 
 
 [x] = Completed | [ ] = In Progress 
